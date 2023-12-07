@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\bin\Debug\net6.0\Book Management System.exe
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\bin\Debug\net6.0\Book Management System.deps.json
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\bin\Debug\net6.0\Book Management System.runtimeconfig.json
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\bin\Debug\net6.0\Book Management System.dll
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\bin\Debug\net6.0\Book Management System.pdb
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.AssemblyInfo.cs
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.dll
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\refint\Book Management System.dll
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.pdb
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\Book Management System.genruntimeconfig.cache
+C:\Users\admin\Downloads\makeen\Coding\Book Management System.so\Book Management System\obj\Debug\net6.0\ref\Book Management System.dll
